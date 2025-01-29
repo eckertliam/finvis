@@ -1,0 +1,14 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Shield Shape -->
+  <path d="M32 4 L52 12 V32 Q52 48 32 58 Q12 48 12 32 V12 Z" fill="#2D3748"/>
+  
+  <!-- Bar Chart -->
+  <rect x="22" y="30" width="5" height="15" fill="#4FD1C5"/>
+  <rect x="30" y="25" width="5" height="20" fill="#4FD1C5"/>
+  <rect x="38" y="32" width="5" height="13" fill="#4FD1C5"/>
+
+  <!-- Small F for FinVis -->
+  <text x="18" y="22" font-family="Arial, sans-serif" font-size="12" fill="white" font-weight="bold">
+    F
+  </text>
+</svg>

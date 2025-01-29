@@ -1,0 +1,15 @@
+<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Shield -->
+  <rect x="0" y="0" width="200" height="60" rx="10" fill="#2D3748"/>
+  
+  <!-- Logo Icon (Shield with Bar Chart) -->
+  <path d="M30 10 L50 10 L60 20 L60 40 Q50 50 30 40 Z" fill="#4FD1C5"/>
+  <rect x="35" y="22" width="5" height="12" fill="white"/>
+  <rect x="42" y="18" width="5" height="16" fill="white"/>
+  <rect x="49" y="25" width="5" height="9" fill="white"/>
+
+  <!-- Text -->
+  <text x="75" y="38" font-family="Arial, sans-serif" font-size="24" fill="white" font-weight="bold">
+    FinVis
+  </text>
+</svg>

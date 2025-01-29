@@ -1,4 +1,14 @@
-import { createRoot } from 'react-dom/client';
+import './App.css'
+import logo from './assets/logo.svg'
 
-const root = createRoot(document.getElementById('root'));
-root.render(<h2>Finvis</h2>);
+function App() {
+  return (
+    <>
+      <div className="logo-container">
+        <img src={logo} alt="FinVis Logo" className="logo"/>
+      </div>
+    </>
+  )
+}
+
+export default App
